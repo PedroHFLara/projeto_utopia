@@ -1,4 +1,4 @@
-# Combate ao abandono de animais
+# UTOPIA
 
 # Sobre 
 
@@ -16,11 +16,9 @@
 
 # Requisitos Funcionais 
 
-Por enquanto nenhum.
 
 # Tecnologias Usadas
 
-Por enquanto nenhuma.
 
 # Contribuição
 
