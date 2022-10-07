@@ -2,6 +2,8 @@
 
 # Sobre 
 
+Vamos desenvolver um sistema para ter o controle de estoque de uma empresa que produz mochilas e lancheiras escolares. Pensando em inovar e poder aumentar a produção da empresa, gerando relátorios para maior controle da empresa. 
+
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
@@ -13,12 +15,9 @@
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
 # Requisitos Funcionais 
 
-
 # Tecnologias Usadas
-
 
 # Contribuição
 
