@@ -17,6 +17,17 @@ Vamos desenvolver um sistema para ter o controle de estoque de uma empresa que p
 
 # Requisitos Funcionais 
 
+RF001 – O software deve cadastrar usuário.
+RF002 – O software deve logar usuário.
+RF003 – O software deve cadastrar fornecedor.
+RF004 – O software deve cadastrar Matéria – Prima.
+RF005 - O software deve cadastrar Estoque.
+RF006 - O software deve consultar Estoque.
+RF007 - O software deve gerar relatório de produção.
+RF008 - O software deve gerar histórico de entrada.
+RF009 - O software deve gerar histórico de saída.
+RF010 - O software deve filtrar informações
+
 # Tecnologias Usadas
 
 # Contribuição
