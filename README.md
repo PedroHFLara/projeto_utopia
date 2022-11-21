@@ -9,7 +9,6 @@ Vamos desenvolver um sistema para ter o controle de estoque de uma empresa que p
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -27,8 +26,6 @@ Vamos desenvolver um sistema para ter o controle de estoque de uma empresa que p
 * RF008 - O software deve gerar histórico de entrada.
 * RF009 - O software deve gerar histórico de saída.
 * RF010 - O software deve filtrar informações
-
-# Tecnologias Usadas
 
 # Contribuição
 
